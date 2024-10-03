@@ -310,7 +310,7 @@
 .about p{
     font-weight: 500;
 }
-#about-btn{
+.about-btn{
     width: 150px;
     height: 38px;
     border: none;
